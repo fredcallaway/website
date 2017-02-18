@@ -93,6 +93,7 @@ STATIC_PATHS = [
 #    'extra/custom.css': {'path': 'static/custom.css'},
 #}
 
-#CUSTOM_CSS = 'static/custom.css'
+# CUSTOM_CSS = 'static/custom.css'
+#
 
 USE_LESS = True
