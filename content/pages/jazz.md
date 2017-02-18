@@ -14,8 +14,8 @@ After science, jazz is my second love. I play piano. Occasionally, I play gigs a
 
 [Bisset Quintet fall 2013](https://www.youtube.com/watch?v=aw3hozcMwMk)
 
-## Composition
-My compositions are inspired most by Robert Glasper, Chick Corea, and Benny Green.
+## Compositions
+My compositions are inspired most by the music of Robert Glasper, Snarky Puppy, and Benny Green.
 
 [Aardvark]({filename}/charts/aardvark.pdf)
 
@@ -34,3 +34,12 @@ My compositions are inspired most by Robert Glasper, Chick Corea, and Benny Gree
 [Through]({filename}/charts/through.pdf)
 
 [Winter Turns to Fall]({filename}/charts/winter_turns_to_fall.pdf)
+
+## Training
+
+The following jazz educators have played an *instrumental* role in my musical development (in chronological order):
+
+- [Ken Berman](http://kenbermanmusic.com)
+- Sarah Cline, director of [Berkeley High Jazz](http://www.bhsjazz.org)
+- Susan Muscarella, chairman of the [California Jazz Conservatory](http://cjc.edu)
+- [Paul Merrill](http://music.cornell.edu/people/faculty/profile/paul-merrill/), director of Cornell University Jazz
