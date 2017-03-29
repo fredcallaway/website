@@ -6,6 +6,8 @@ After science, jazz is my second love. I play piano. Occasionally, I play gigs a
 
 ## Recordings
 
+[UC Berkeley fall 2016](https://drive.google.com/open?id=0B_EjB5L1rvMZaVo2SVlvV3cteWs)
+
 [Cornell Jazz Ensemble spring 2016](https://drive.google.com/open?id=0B5apO-iCShKsNTNHMFVDd3I0LWc)
 
 [Cornell Jazz Ensemble fall 2015](https://www.cornell.edu/video/wind-symphony-jazz-band-concert-nov-20-2015)
@@ -34,6 +36,8 @@ My compositions are inspired most by the music of Robert Glasper, Snarky Puppy, 
 [Through]({filename}/charts/through.pdf)
 
 [Winter Turns to Fall]({filename}/charts/winter_turns_to_fall.pdf)
+
+[Not on Facebook]({filename}/charts/not_on_facebook.pdf)
 
 ## Training
 
