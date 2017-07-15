@@ -1,10 +1,11 @@
----
 title: Jazz
----
+
 
 After science, jazz is my second love. I play piano. Occasionally, I play gigs at restaurants and small events—I'm always looking for work if you're interested!
 
 ## Recordings
+
+[UC Berkeley spring 2017](https://drive.google.com/open?id=0B_EjB5L1rvMZTW9TZGpVcWYxTDA)
 
 [UC Berkeley fall 2016](https://drive.google.com/open?id=0B_EjB5L1rvMZaVo2SVlvV3cteWs)
 
