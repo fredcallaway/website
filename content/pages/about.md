@@ -1,8 +1,6 @@
----
 title: About me
-URL:
+URL: 
 save_as: index.html
----
 
 I'm a first year Psychology PhD student at UC Berkeley. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.berkeley.edu). I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/). You can check out my work from the links in my slightly out-of-date [resume]({filename}/pdfs/fred-callaway.pdf).
 

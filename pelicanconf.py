@@ -86,6 +86,7 @@ STATIC_PATHS = [
     'images',
     'charts',
     'pdfs',
+    'misc'
     
 ]
 
