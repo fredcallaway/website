@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference articles and abstracts
 
-- Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [pdf](https://osf.io/ut3xp/)
+- Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [pdf](https://osf.io/wrqtp/)
 
 - Lieder<sup>1</sup>, F. Krueger<sup>1</sup> P.M., Callaway<sup>1</sup> F., & Griffiths T.L. (2017). A reward shaping method for promoting metacognitive learning. _The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making._ [pdf](https://osf.io/preprints/psyarxiv/qj346/)
 
