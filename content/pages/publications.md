@@ -1,5 +1,6 @@
 title: Publications
 
+# Publications
 
 ## Conference articles and abstracts
 

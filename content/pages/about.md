@@ -1,6 +1,8 @@
-title: About me
+title: About
 URL: 
 save_as: index.html
+
+# About me
 
 I'm a second-year Psychology PhD student at UC Berkeley. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.berkeley.edu). I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/). You can check out my work [here]({filename}/pages/publications.md).
 

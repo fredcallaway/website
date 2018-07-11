@@ -1,5 +1,6 @@
 title: Jazz
 
+# Jazz
 
 After science, jazz is my second love. I play piano. Occasionally, I play gigs at restaurants and small events—I'm always looking for work if you're interested!
 

@@ -10,7 +10,7 @@ SITEDESCRIPTION = '%s\'s personal website' % AUTHOR
 SITELOGO = '/images/fred-head.png'
 #FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
-PYGMENTS_STYLE = 'monokai'
+# PYGMENTS_STYLE = 'monokai'
 
 ROBOTS = 'index, follow'
 
@@ -24,6 +24,11 @@ LOCALE = 'en_US'
 DATE_FORMATS = {
     'en': '%B %d, %Y',
 }
+
+INDEX_SAVE_AS = 'blog/index.html'
+ARTICLE_PATHS = ['blog']
+ARTICLE_URL = 'blog/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
 
 #FEED_ALL_ATOM = 'feeds/all.atom.xml'
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -58,11 +63,16 @@ COPYRIGHT_YEAR = 2016
 DEFAULT_PAGINATION = 10
 STATUSCAKE = False
 
-PLUGIN_PATHS = ['./pelican-plugins']
+MARKUP = ('md', 'ipynb')
+PLUGIN_PATHS = ['./pelican-plugins', './plugins']
 PLUGINS = [
     'sitemap',
+    'ipynb.markup',
     #'post_stats',
 ]
+
+IPYNB_USE_METACELL = True
+IGNORE_FILES = ['.ipynb_checkpoints']
 
 SITEMAP = {
     'format': 'xml',
