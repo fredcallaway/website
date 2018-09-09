@@ -3,3 +3,4 @@ srv.pid
 pelican.pid
 output/
 pelican-plugins/
+content/blog/.ipynb_checkpoints
