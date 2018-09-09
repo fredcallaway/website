@@ -1,8 +1,8 @@
 title: Jazz
 
-# Jazz
+<!-- # Jazz
 
-After science, jazz is my second love. I play piano. Occasionally, I play gigs at restaurants and small events—I'm always looking for work if you're interested!
+After science, jazz is my second love. I play piano. Occasionally, I play gigs at restaurants and small events—I'm always looking for work if you're interested! -->
 
 ## Recordings
 
@@ -19,29 +19,33 @@ After science, jazz is my second love. I play piano. Occasionally, I play gigs a
 [Bisset Quintet fall 2013](https://www.youtube.com/watch?v=aw3hozcMwMk)
 
 ## Compositions
-My compositions are inspired most by the music of Robert Glasper, Snarky Puppy, and Benny Green.
+My compositions are inspired most by the music of Robert Glasper, Snarky Puppy, and Benny Green. They are ordered by a combination of recency and self-estimated quality (start at the top).
 
-[Aardvark]({filename}/charts/aardvark.pdf)
+[Fever Dream]({filename}/charts/fever_dream.pdf) (written for Dann Zinn)
 
-[Damn Straight]({filename}/charts/damn_straight.pdf)
-
-[Drops of Glass]({filename}/charts/drops_of_glass.pdf)
+[Amazinn]({filename}/charts/amazinn.pdf) (written for Dann Zinn)
 
 [In Ipsum Animus]({filename}/charts/in_ipsum_animus.pdf)
 
-[My Dad is Bud]({filename}/charts/my_dad_is_bud.pdf)
-
-[The Intermittent Nature of Edmund Burke]({filename}/charts/the_intermittent_nature_of_edmund_burke.pdf)
-
-[Three Years]({filename}/charts/three_years.pdf)
+[Not on Facebook]({filename}/charts/not_on_facebook.pdf)
 
 [Through]({filename}/charts/through.pdf)
 
+[Aardvark]({filename}/charts/aardvark.pdf)
+
+[Drops of Glass]({filename}/charts/drops_of_glass.pdf)
+
+[Three Years]({filename}/charts/three_years.pdf)
+
+[Damn Straight]({filename}/charts/damn_straight.pdf)
+
+[The Intermittent Nature of Edmund Burke]({filename}/charts/the_intermittent_nature_of_edmund_burke.pdf)
+
+[My Dad is Bud]({filename}/charts/my_dad_is_bud.pdf)
+
 [Winter Turns to Fall]({filename}/charts/winter_turns_to_fall.pdf)
 
-[Not on Facebook]({filename}/charts/not_on_facebook.pdf)
-
-## Training
+<!-- ## Training
 
 The following jazz educators have played an *instrumental* role in my musical development (in chronological order):
 
@@ -49,3 +53,4 @@ The following jazz educators have played an *instrumental* role in my musical de
 - Sarah Cline, director of [Berkeley High Jazz](http://www.bhsjazz.org)
 - Susan Muscarella, chairman of the [California Jazz Conservatory](http://cjc.edu)
 - [Paul Merrill](http://music.cornell.edu/people/faculty/profile/paul-merrill/), director of Cornell University Jazz
+-  -->
