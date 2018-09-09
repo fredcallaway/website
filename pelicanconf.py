@@ -72,6 +72,7 @@ PLUGINS = [
 ]
 
 IPYNB_USE_METACELL = True
+IPYNB_NB_OUTPUT = True
 IGNORE_FILES = ['.ipynb_checkpoints']
 
 SITEMAP = {
@@ -96,7 +97,9 @@ STATIC_PATHS = [
     'images',
     'charts',
     'pdfs',
-    'misc'
+    'misc',
+    # 'notebooks'
+    # 'blog/notebooks'
     
 ]
 

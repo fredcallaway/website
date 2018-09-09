@@ -14,20 +14,26 @@
   <header>
     <h1 id="{{ article.slug }}">{{ article.title }}</h1>
     <p>
-      {{ _('Posted on %(when)s,
+      {{ _('Posted on %(when)s',
            when=article.locale_date,
            category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe) }}
-      <br>
       {% if article.tags %}
-      Tags:
-      {% for tag in article.tags %}
-      <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-      {% endfor %}
+          &#8226; {{ _('Tagged with') }}
+          {% for tag in article.tags %}
+              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
+          {% endfor %}
       {% endif %}
 
       {% if 'post_stats' in PLUGINS %}
         &#8226; {{ article.stats['read_mins'] }} min read
       {% endif %}
+
+      {% if article.nb_path %}
+        <br>
+        <a href="{{ SITEURL }}/{{ article.nb_path }}">Download Notebook</a>
+      {% endif %}
+
+
     </p>
 <!--     <div class="tag-cloud">
       <p>
