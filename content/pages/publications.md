@@ -4,7 +4,9 @@ title: Publications
 
 ## Conference articles and abstracts
 
-- Lieder, F.<sup>1</sup>, Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, & Griffiths, T.L. (under review). A computerized training program for teaching people how to plan better. _Annual Meeting of the Society for Judgment and Decision-Making._ [pdf](https://osf.io/preprints/psyarxiv/uj8ys/)
+- Ho, M. K.<sup>1</sup>, Sanborn S.<sup>1</sup>, Callaway F.<sup>1</sup> Human priors in hierarchical program induction. _Cognitive Computional Neuroscience._ [pdf](https://ccneuro.org/2018/proceedings/1265.pdf)
+
+- Lieder, F.<sup>1</sup>, Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, & Griffiths, T.L. (2018). A computerized training program for teaching people how to plan better. _Annual Meeting of the Society for Judgment and Decision-Making._ [pdf](https://osf.io/preprints/psyarxiv/uj8ys/)
 
 - Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [pdf](https://osf.io/wrqtp/)
 
