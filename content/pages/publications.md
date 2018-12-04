@@ -8,7 +8,7 @@ title: Publications
 
 - Ho, M. K.<sup>1</sup>, Sanborn S.<sup>1</sup>, Callaway F.<sup>1</sup>, Bourgin, D., and Griffiths, T. L. (2018). Human priors in hierarchical program induction. _Cognitive Computional Neuroscience._ [pdf](https://ccneuro.org/2018/proceedings/1265.pdf)
 
-- Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., Lieder, F.<sup>1</sup>, & Griffiths, T.L. (2018). Learning to select computations. _Uncertainty in articifical intelligence_. [pdf](https://arxiv.org/abs/1711.06892)
+- Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., Griffiths, T.L., & Lieder, F.<sup>1</sup> (2018). Learning to select computations. _Uncertainty in articifical intelligence_. [pdf](https://arxiv.org/abs/1711.06892)
 
 - Lieder, F.<sup>1</sup>, Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, & Griffiths, T.L. (2018). A computerized training program for teaching people how to plan better. _Annual Meeting of the Society for Judgment and Decision-Making._ [pdf](https://osf.io/preprints/psyarxiv/uj8ys/)
 
