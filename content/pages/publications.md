@@ -2,9 +2,13 @@ title: Publications
 
 # Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=oX7L_mMAAAAJ&hl=en&oi=ao)
+
 ## Conference articles and abstracts
 
 - Ho, M. K.<sup>1</sup>, Sanborn S.<sup>1</sup>, Callaway F.<sup>1</sup>, Bourgin, D., and Griffiths, T. L. (2018). Human priors in hierarchical program induction. _Cognitive Computional Neuroscience._ [pdf](https://ccneuro.org/2018/proceedings/1265.pdf)
+
+- Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., Lieder, F.<sup>1</sup>, & Griffiths, T.L. (2018). Learning to select computations. _Uncertainty in articifical intelligence_. [pdf](https://arxiv.org/abs/1711.06892)
 
 - Lieder, F.<sup>1</sup>, Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, & Griffiths, T.L. (2018). A computerized training program for teaching people how to plan better. _Annual Meeting of the Society for Judgment and Decision-Making._ [pdf](https://osf.io/preprints/psyarxiv/uj8ys/)
 
@@ -16,6 +20,6 @@ title: Publications
 
 - Callaway, F., Lieder, F., & Griffiths, T.L. (2017). Helping people choose subgoals with sparse pseudo rewards. _The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making._ [pdf](https://osf.io/8rz37)
 
-## Workshop papers and abstracts
+<!-- ## Workshop papers and abstracts
 
-Lieder, F.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., & Griffiths, T.L. (2017). Learning to select computations. NIPS workshop on Cognitively Informed AI. [pdf](https://arxiv.org/abs/1711.06892)
+Lieder, F.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., & Griffiths, T.L. (2017). Learning to select computations. NIPS workshop on Cognitively Informed AI. [pdf](https://arxiv.org/abs/1711.06892) -->
