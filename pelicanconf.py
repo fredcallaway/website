@@ -44,7 +44,7 @@ LINKS = (
 
 SOCIAL = (
     ('github', 'https://github.com/fredcallaway'),
-    ('paper-plane', 'mailto:fredcallaway@berkeley.edu'),
+    ('paper-plane', 'mailto:fredcallaway@princeton.edu'),
 )
 
 
