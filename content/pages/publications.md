@@ -6,6 +6,12 @@ title: Publications
 
 ## Conference articles and abstracts
 
+<!-- Lieder, F., Callaway, F., Jain, Y.R., Krueger, P.M., Das, P., Gul, S., & Griffiths, T.L. (submitted). A cognitive tutor for helping people overcome present bias. DOI: 10.13140/RG.2.2.10467.20006 *These authors contributed equally.
+Das, P., Callaway, F., Griffiths, T.L., & Lieder, F. (submitted). Remediating cognitive decline with cognitive tutors. RLDM 2019. DOI: 10.13140/RG.2.2.36052.45443.
+Jain, Y. R., Callaway, F., & Lieder, F. (submitted). Measuring how people learn how to plan. RLDM 2019.  DOI: 10.13140/RG.2.2.23888.97281.  -->
+
+- Callaway, F.<sup>1</sup>, Lieder, F.<sup>1</sup>, Das, P., Gul, S., Krueger, P. M., & Griffiths, T. L. (2018). A resource-rational analysis of human planning. In _Proceedings of the 40th Annual Conference of the Cognitive Science Society._ [pdf](http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf)
+
 - Ho, M. K.<sup>1</sup>, Sanborn S.<sup>1</sup>, Callaway F.<sup>1</sup>, Bourgin, D., and Griffiths, T. L. (2018). Human priors in hierarchical program induction. _Cognitive Computional Neuroscience._ [pdf](https://ccneuro.org/2018/proceedings/1265.pdf)
 
 - Callaway, F.<sup>1</sup>, Gul, S.<sup>1</sup>, Krueger, P.M., Griffiths, T.L., & Lieder, F.<sup>1</sup> (2018). Learning to select computations. _Uncertainty in artificial intelligence_. [pdf](https://arxiv.org/abs/1711.06892)
