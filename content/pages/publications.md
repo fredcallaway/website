@@ -4,6 +4,10 @@ title: Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=oX7L_mMAAAAJ&hl=en&oi=ao)
 
+## Journal articles
+
+- Griffiths, T. L., Callaway, F., Chang, M. B., Grant, E., Krueger, P. M., & Lieder, F. (2019). Doing more with less: meta-reasoning and meta-learning in humans and machines. _Current Opinion in Behavioral Sciences_, 29, 24-30.
+
 ## Conference articles and abstracts
 
 <!-- Lieder, F., Callaway, F., Jain, Y.R., Krueger, P.M., Das, P., Gul, S., & Griffiths, T.L. (submitted). A cognitive tutor for helping people overcome present bias. DOI: 10.13140/RG.2.2.10467.20006 *These authors contributed equally.
