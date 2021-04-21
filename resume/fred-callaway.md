@@ -2,15 +2,15 @@ Fred Callaway
 ===============
 
 fredcallaway@berkeley.edu
-http://fredcallaway.com
+<http://fredcallaway.com>
 \ 
 
 ## Education
 
-* __University of California Berkeley__ (2016 -- )  
+* __University of California Berkeley__ (2016 -- 2018)  
     - PhD candidate
 
-* __Cornell University__ (2012 -- 2016 )  
+* __Cornell University__ (2012 -- 2016)  
     - Majors in Psychology and Linguistics, Minors in Computer Science and Cognitive Science
     - 4.07 GPA, 4.13 Major GPA
 
