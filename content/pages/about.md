@@ -4,16 +4,16 @@ save_as: index.html
 
 # About me
 
-I'm a fifth-year Psychology PhD student at Princeton. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.princeton.edu). 
+I'm a sixth-year Psychology PhD student at Princeton. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.princeton.edu). 
 I study how people make efficient use of their limited cognitive resources when making decisions.
 
-Here is my [CV](callaway-cv.pdf).
+Here is my [CV](callaway-cv.pdf). It is likely out of date.
 
 ## Representative papers
 
-- Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
+- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.<sup>2</sup>, & Griffiths, T. L.<sup>2</sup> (in press). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://psyarxiv.com/byaqd)
 
-- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F., & Griffiths, T. L. (under review). Human planning as optimal information seeking. [pdf](https://psyarxiv.com/byaqd/)
+- Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
 
 <!-- I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/). -->
 
