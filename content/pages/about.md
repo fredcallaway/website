@@ -4,7 +4,19 @@ save_as: index.html
 
 # About me
 
-I'm a third-year Psychology PhD student at Princeton. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.princeton.edu). I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/).
+I'm a fifth-year Psychology PhD student at Princeton. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.princeton.edu). 
+I study how people make efficient use of their limited cognitive resources when making decisions.
+
+Here is my [CV](callaway-cv.pdf).
+
+## Representative papers
+
+- Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
+
+- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F., & Griffiths, T. L. (under review). Human planning as optimal information seeking. [pdf](https://psyarxiv.com/byaqd/)
+
+<!-- I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/). -->
+
 
 <!-- ### Research Statement
 How do people make decisions

@@ -4,7 +4,19 @@ title: Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=oX7L_mMAAAAJ&hl=en&oi=ao)
 
+Note: <sup>1</sup> denotes shared first authorship; <sup>2</sup> denotes shared senior authorship.
+
+## Preprints
+
+- Callaway, F.<sup>1</sup>, Karreskog, G.<sup>1</sup>. Rational Heuristics for One-Shot Games. [pdf](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
+
+- Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S., Griffiths, T. L., & Lider F. Discovering rational heuristis for risky choice.
+
 ## Journal articles
+
+- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.<sup>2</sup>, & Griffiths, T. L.<sup>2</sup> (in press). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://psyarxiv.com/byaqd)
+
+- Jain, Y. R., Callaway, F., Griffiths, T. L., Dayan, P., Krueger, P. M., & Lieder, F. (2022). A computational process-tracing method for measuring people's planning strategies and how they change over time.  _Behavioral Research Methods_. [pdf](https://is.mpg.de/uploads_file/attachment/attachment/675/Revised_Manuscript.pdf)
 
 - Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
 

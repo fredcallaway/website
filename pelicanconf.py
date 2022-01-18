@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Fred Callaway'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://localhost:8000'
 SITENAME = AUTHOR
 SITETITLE = AUTHOR
 SITESUBTITLE = ''
 SITEDESCRIPTION = '%s\'s personal website' % AUTHOR
-SITELOGO = '/images/fred-head.png'
+# SITELOGO = '/images/fred-head.png'
+SITELOGO = '/images/evolution-crop.jpeg'
 #FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
 # PYGMENTS_STYLE = 'monokai'
@@ -26,7 +27,7 @@ DATE_FORMATS = {
 }
 
 INDEX_SAVE_AS = 'blog/index.html'
-ARTICLE_PATHS = ['blog']
+ARTICLE_PATHS = []
 ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
 
@@ -67,7 +68,7 @@ MARKUP = ('md', 'ipynb')
 PLUGIN_PATHS = ['./pelican-plugins', './plugins']
 PLUGINS = [
     'sitemap',
-    'ipynb.markup',
+    # 'ipynb.markup',
     #'post_stats',
 ]
 
