@@ -21,29 +21,29 @@ After science, jazz is my second love. I play piano. Occasionally, I play gigs a
 ## Compositions
 My compositions are inspired most by the music of Robert Glasper, Snarky Puppy, and Benny Green. They are ordered by a combination of recency and self-estimated quality (start at the top).
 
-[Fever Dream]({filename}/charts/fever_dream.pdf) (written for Dann Zinn)
+[Fever Dream]({static}/charts/fever_dream.pdf) (written for Dann Zinn)
 
-[Amazinn]({filename}/charts/amazinn.pdf) (written for Dann Zinn)
+[Amazinn]({static}/charts/amazinn.pdf) (written for Dann Zinn)
 
-[In Ipsum Animus]({filename}/charts/in_ipsum_animus.pdf)
+[In Ipsum Animus]({static}/charts/in_ipsum_animus.pdf)
 
-[Not on Facebook]({filename}/charts/not_on_facebook.pdf)
+[Not on Facebook]({static}/charts/not_on_facebook.pdf)
 
-[Through]({filename}/charts/through.pdf)
+[Through]({static}/charts/through.pdf)
 
-[Aardvark]({filename}/charts/aardvark.pdf)
+[Aardvark]({static}/charts/aardvark.pdf)
 
-[Drops of Glass]({filename}/charts/drops_of_glass.pdf)
+[Drops of Glass]({static}/charts/drops_of_glass.pdf)
 
-[Three Years]({filename}/charts/three_years.pdf)
+[Three Years]({static}/charts/three_years.pdf)
 
-[Damn Straight]({filename}/charts/damn_straight.pdf)
+[Damn Straight]({static}/charts/damn_straight.pdf)
 
-[The Intermittent Nature of Edmund Burke]({filename}/charts/the_intermittent_nature_of_edmund_burke.pdf)
+[The Intermittent Nature of Edmund Burke]({static}/charts/the_intermittent_nature_of_edmund_burke.pdf)
 
-[My Dad is Bud]({filename}/charts/my_dad_is_bud.pdf)
+[My Dad is Bud]({static}/charts/my_dad_is_bud.pdf)
 
-[Winter Turns to Fall]({filename}/charts/winter_turns_to_fall.pdf)
+[Winter Turns to Fall]({static}/charts/winter_turns_to_fall.pdf)
 
 <!-- ## Training
 
