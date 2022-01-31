@@ -10,21 +10,23 @@ Note: <sup>1</sup> denotes shared first authorship; <sup>2</sup> denotes shared 
 
 - Callaway, F.<sup>1</sup>, Karreskog, G.<sup>1</sup>. Rational Heuristics for One-Shot Games. [pdf](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
 
-- Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S., Griffiths, T. L., & Lider F. Discovering rational heuristis for risky choice.
+- Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S., Griffiths, T. L., & Lider F. Discovering rational heuristis for risky choice. [pdf](https://psyarxiv.com/mg7dn)
 
 ## Journal articles
+
+- Callaway, F., Jain, Y. R, van Opheusden, B, Das, P., Iwama, G., Gul, S., Krueger, P. M., Becker, F., Griffiths, T. L.<sup>2</sup>, Lieder, F.<sup>2</sup> (in press). Leveraging Artificial Intelligence to Improve People’s Planning Strategies. _Proceedings of the National Academy of Sciences_. [pdf]({static}/pdfs/ai-improving-planning.pdf)
 
 - Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.<sup>2</sup>, & Griffiths, T. L.<sup>2</sup> (in press). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://psyarxiv.com/byaqd)
 
 - Jain, Y. R., Callaway, F., Griffiths, T. L., Dayan, P., Krueger, P. M., & Lieder, F. (2022). A computational process-tracing method for measuring people's planning strategies and how they change over time.  _Behavioral Research Methods_. [pdf](https://is.mpg.de/uploads_file/attachment/attachment/675/Revised_Manuscript.pdf)
 
+- Gates, V.<sup>1</sup>, Callaway, F.<sup>1</sup>, Ho, M. K., Griffiths, T. L. (2021). A rational model of people’s inferences about others' preferences based on response times.  _Cognition_. [pdf](https://cocosci.princeton.edu/papers/gatesrational2021.pdf)
+
 - Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
 
-- Griffiths, T. L., Callaway, F., Chang, M. B., Grant, E., Krueger, P. M., & Lieder, F. (2019). Doing more with less: meta-reasoning and meta-learning in humans and machines. _Current Opinion in Behavioral Sciences_, 29, 24-30.
+- Griffiths, T. L., Callaway, F., Chang, M. B., Grant, E., Krueger, P. M., & Lieder, F. (2019). Doing more with less: meta-reasoning and meta-learning in humans and machines. _Current Opinion in Behavioral Sciences_, 29, 24-30. [pdf](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
 
 ## Conference articles and abstracts
-
-<!-- Improving Human Decision-Making using Metalevel-RL and Bayesian Inference" has been selected to appear in our NeurIPS workshop 'Challenges of Real World Reinforcement Learning' on 12th December 2020.  -->
 
 - Callaway, F., Hardy, M., & Griffiths, T. L. (2020). Optimal nudging. _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._
 
