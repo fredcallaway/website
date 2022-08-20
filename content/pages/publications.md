@@ -14,9 +14,9 @@ Note: <sup>1</sup> denotes shared first authorship; <sup>2</sup> denotes shared 
 
 ## Journal articles
 
-- Callaway, F., Jain, Y. R, van Opheusden, B, Das, P., Iwama, G., Gul, S., Krueger, P. M., Becker, F., Griffiths, T. L.<sup>2</sup>, Lieder, F.<sup>2</sup> (in press). Leveraging Artificial Intelligence to Improve People’s Planning Strategies. _Proceedings of the National Academy of Sciences_. [pdf]({static}/pdfs/ai-improving-planning.pdf)
+- Callaway, F., Jain, Y. R, van Opheusden, B, Das, P., Iwama, G., Gul, S., Krueger, P. M., Becker, F., Griffiths, T. L.<sup>2</sup>, Lieder, F.<sup>2</sup> (in press). Leveraging Artificial Intelligence to Improve People’s Planning Strategies. _Proceedings of the National Academy of Sciences_. [pdf](https://cocosci.princeton.edu/papers/callawayleveraging.pdf)
 
-- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.<sup>2</sup>, & Griffiths, T. L.<sup>2</sup> (in press). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://psyarxiv.com/byaqd)
+- Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.<sup>2</sup>, & Griffiths, T. L.<sup>2</sup> (2022). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://cocosci.princeton.edu/papers/callawayrationaluse.pdf)
 
 - Jain, Y. R., Callaway, F., Griffiths, T. L., Dayan, P., Krueger, P. M., & Lieder, F. (2022). A computational process-tracing method for measuring people's planning strategies and how they change over time.  _Behavioral Research Methods_. [pdf](https://is.mpg.de/uploads_file/attachment/attachment/675/Revised_Manuscript.pdf)
 
@@ -32,7 +32,7 @@ Note: <sup>1</sup> denotes shared first authorship; <sup>2</sup> denotes shared 
 
 - Liquin, E.G., Callaway, F. & Lombrozo, T. (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._
 
-- Radulescu*, A., Van Opheusden* S., Callaway, F., Griffiths, T. L., Hillis, J.M. (2020). From heuristic to optimal models in naturalistic visual search. Bridging AI and Cognitive Science workshop @ ICLR. (paper selected for talk) [pdf](https://baicsworkshop.github.io/pdf/BAICS_33.pdf)
+- Radulescu<sup>1</sup>, A., Van Opheusden<sup>1</sup> S., Callaway, F., Griffiths, T. L., Hillis, J.M. (2020). From heuristic to optimal models in naturalistic visual search. Bridging AI and Cognitive Science workshop @ ICLR. (paper selected for talk) [pdf](https://baicsworkshop.github.io/pdf/BAICS_33.pdf)
 
 - Callaway, F. van Opheusden, S., Grant, E., Griffiths, T. L. (2020) Generalization in planning by metalearning to metareason. Generalization in planning @ AAAI. (paper selected for talk) [pdf](https://fredcallaway.com/pdfs/AAAI_19_Planning_workshop.pdf)
 
