@@ -4,3 +4,15 @@ pelican.pid
 output/
 pelican-plugins/
 content/blog/.ipynb_checkpoints
+
+.tmp
+bak.blog
+cv/callaway-cv.pdf
+cv/*.aux
+cv/*.fdb_latexmk
+cv/*.fls
+cv/*.html
+cv/*.log
+cv/*.out
+cv/*.tex
+notebooks
