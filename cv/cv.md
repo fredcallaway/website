@@ -3,7 +3,7 @@ Fred Callaway
 
 \href{mailto:fredcallaway@princeton.edu}{fredcallaway@princeton.edu}
 \url{http://fredcallaway.com}
-Last updated on 
+Last updated on Feb 25, 2023
 \ 
 
 ## Education
