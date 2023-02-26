@@ -4,10 +4,11 @@ save_as: index.html
 
 # About me
 
-I'm a sixth-year Psychology PhD student at Princeton. I work in Tom Griffiths' [Computational Cognitive Science Lab](http://cocosci.princeton.edu). 
-I study how people make efficient use of their limited cognitive resources when making decisions.
+I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://mattarlab.ucsd.edu/)) and Harvard (with [Fiery Cushman](https://cushmanlab.fas.harvard.edu/)). I did my PhD with [Tom Griffiths](http://cocosci.princeton.edu) at Princeton.
 
-Here is my [CV](callaway-cv.pdf). It is likely out of date.
+I study how people make efficient use of their limited cognitive resources when making decisions, with an emphasis on sequential decision making.
+
+Here is a reasonably up-to-date [CV](callaway-cv.pdf).
 
 ## Representative papers
 
