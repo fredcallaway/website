@@ -6,7 +6,7 @@ save_as: index.html
 
 I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://mattarlab.ucsd.edu/)) and Harvard (with [Fiery Cushman](https://cushmanlab.fas.harvard.edu/)). I did my PhD with [Tom Griffiths](http://cocosci.princeton.edu) at Princeton.
 
-I study how people make efficient use of their limited cognitive resources when making decisions, with an emphasis on sequential decision making.
+I study how people make efficient use of their limited cognitive resources, with an emphasis on sequential decision making.
 
 Here is a reasonably up-to-date [CV](callaway-cv.pdf).
 
