@@ -22,6 +22,11 @@ Majors in psychology and linguistics
 Minors in computer science and cognitive science
   <!-- - 4.07 GPA, 4.13 Major GPA -->
 
+## Grants and Fellowships
+
+* 2020  Graduate Student Research Grant, Princeton Program in Cognitive Science ($5,000)
+* 2020  Graduate Fellow, Princeton Program in Cognitive Science ($1,000)
+
 ## Awards and Honors
 
 * 2017  Outstanding Paper award at the NIPS workshop for Cognitively Informed AI.
