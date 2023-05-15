@@ -3,7 +3,7 @@ Fred Callaway
 
 \href{mailto:fredcallaway@princeton.edu}{fredcallaway@princeton.edu}
 \url{http://fredcallaway.com}
-Last updated on Feb 25, 2023
+Last updated on May 14, 2023
 \ 
 
 ## Education
@@ -29,6 +29,7 @@ Minors in computer science and cognitive science
 
 ## Awards and Honors
 
+* 2023  Glushko Dissertation Prize
 * 2017  Outstanding Paper award at the NIPS workshop for Cognitively Informed AI.
 * 2016  Arthur Ryan prize for best undergraduate thesis in Psychology
 
@@ -38,16 +39,13 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 
 ### Forthcoming
 
-
 - Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. Optimal metacognitive control of memory recall. [pdf](https://psyarxiv.com/haf79/)
 
 -   Callaway, F.^1^, Hardy, M.^1^, & Griffiths, T. L. Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. [pdf](https://psyarxiv.com/7ahdc)
 
 - Callaway, F.^1^, Karreskog, G.^1^. Rational Heuristics for One-Shot Games. [pdf](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
 
-
-<!-- 
-- Krueger, P.M.^1^, Callaway, F.^1^, Gul, S., Lieder, F.^2^, & Griffiths, T.L.^2^ (in preparation). Discovering rational heuristics for risky choice. -->
+- Krueger, P.M.^1^, Callaway, F.^1^, Gul, S., Lieder, F.^2^, & Griffiths, T.L.^2^ (in preparation). Identifying Resource-Rational Heuristics for Risky Choice. [pdf](https://psyarxiv.com/mg7dn)
 
 ### Journal articles
 

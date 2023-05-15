@@ -104,7 +104,7 @@ ssh_upload: publish
 
 upload: publish
 	# rsync -e "ssh" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
-	rsync -e 'ssh' -a output/ fredc@simcoe.lmi.net:~/www.fredcallaway.com/docs
+	rsync -a output/ fredc@simcoe.lmi.net:~/www.fredcallaway.com/docs
 
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
