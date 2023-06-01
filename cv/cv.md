@@ -49,7 +49,11 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 
 ### Journal articles
 
-- Callaway, F., Jain, Y. R, van Opheusden, B, Das, P., Iwama, G., Gul, S., Krueger, P. M., Becker, F., Griffiths, T. L.^2^, & Lieder, F.^2^ (2022). Leveraging Artificial Intelligence to  Improve People’s Planning Strategies. _Proceedings of the National Academy of Sciences_. [pdf](https://cocosci.princeton.edu/papers/callawayleveraging.pdf)
+- Correa, C. G., Ho, M. K., Callaway, F., Daw, N. D., & Griffiths, T. L. (2023). Humans decompose tasks by trading off utility and computational cost. _PLOS Computational Biology_. [pdf](https://fredcallaway.com/pdfs/correa2023humans.pdf)
+
+- Li, M. Y., Callaway, F., Thompson, W. D., Adams, R. P., & Griffiths, T. L. (2023). Learning to Learn Functions. _Cognitive Science_. [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13262)
+
+- Callaway, F., Jain, Y. R, van Opheusden, B, Das, P., Iwama, G., Gul, S., Krueger, P. M., Becker, F., Griffiths, T. L.^2^, & Lieder, F.^2^ (2022). Leveraging Artificial Intelligence to  Improve People's Planning Strategies. _Proceedings of the National Academy of Sciences_. [pdf](https://cocosci.princeton.edu/papers/callawayleveraging.pdf)
 
 - Callaway, F., van Opheusden, B., Gul, S., Das P., Krueger, P. M., Lieder F.^2^, & Griffiths, T. L.^2^ (2022). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [pdf](https://cocosci.princeton.edu/papers/callawayrationaluse.pdf)
 

@@ -8,11 +8,17 @@ Note: <sup>1</sup> denotes shared first authorship; <sup>2</sup> denotes shared 
 
 ## Preprints
 
+- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. Optimal metacognitive control of memory recall. [pdf](https://psyarxiv.com/haf79/)
+
 - Callaway, F.<sup>1</sup>, Karreskog, G.<sup>1</sup>. Rational Heuristics for One-Shot Games. [pdf](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
+
+- Callaway, F.<sup>1</sup>, Hardy, M.<sup>1</sup>, & Griffiths, T. L. Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. [pdf](https://psyarxiv.com/7ahdc)
 
 - Krueger, P. M.<sup>1</sup>, Callaway, F.<sup>1</sup>, Gul, S., Griffiths, T. L., & Lider F. Discovering rational heuristis for risky choice. [pdf](https://psyarxiv.com/mg7dn)
 
 ## Journal articles
+
+- Correa, C. G., Ho, M. K., Callaway, F., Daw, N. D., & Griffiths, T. L. (2023). Humans decompose tasks by trading off utility and computational cost. _PLOS Computational Biology_. [pdf](https://fredcallaway.com/pdfs/correa2023humans.pdf)
 
 - Li, M. Y., Callaway, F., Thompson, W. D., Adams, R. P., & Griffiths, T. L. (2023). Learning to Learn Functions. _Cognitive Science_. [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13262)
 
