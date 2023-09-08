@@ -8,7 +8,7 @@ I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://mattarlab.ucsd.
 
 I study how people make efficient use of their limited cognitive resources, with an emphasis on sequential decision making.
 
-My [dissertation](dissertation.pdf), _Cognition as a sequential decision problem_ applied metalevel Markov decision processes to develop optimal algorithmic models of attention, memory, and planning.
+My [dissertation](pdfs/callaway-dissertation.pdf), _Cognition as a sequential decision problem_ applied metalevel Markov decision processes to develop optimal algorithmic models of attention, memory, and planning.
 
 Here is a reasonably up-to-date [CV](callaway-cv.pdf).
 
