@@ -1,10 +1,9 @@
 Fred Callaway
 ===============
 
-\href{mailto:fredcallaway@princeton.edu}{fredcallaway@princeton.edu}
+\href{mailto:fredcallaway@gmail.com}{fredcallaway@gmail.com}
 \url{http://fredcallaway.com}
-Last updated on May 14, 2023
-\ 
+Last updated on Sep 8, 2023
 
 ## Education
 
@@ -39,15 +38,19 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 
 ### Forthcoming
 
-- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. Optimal metacognitive control of memory recall. [pdf](https://psyarxiv.com/haf79/)
-
--   Callaway, F.^1^, Hardy, M.^1^, & Griffiths, T. L. Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. [pdf](https://psyarxiv.com/7ahdc)
-
 - Callaway, F.^1^, Karreskog, G.^1^. Rational Heuristics for One-Shot Games. [pdf](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
 
-- Krueger, P.M.^1^, Callaway, F.^1^, Gul, S., Lieder, F.^2^, & Griffiths, T.L.^2^ (in preparation). Identifying Resource-Rational Heuristics for Risky Choice. [pdf](https://psyarxiv.com/mg7dn)
+- Krueger, P.M.^1^, Callaway, F.^1^, Gul, S., Lieder, F.^2^, & Griffiths, T.L.^2^ (R&R at _Psychological Review_). Identifying Resource-Rational Heuristics for Risky Choice. [pdf](https://psyarxiv.com/mg7dn)
+
+- Frömer, R., Callaway, F., Griffiths, T., & Shenhav, A. Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. [pdf](https://psyarxiv.com/2sqyt)
+
+
 
 ### Journal articles
+
+- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (in press). Optimal metacognitive control of memory recall. _Psychological Review_. [pdf](https://psyarxiv.com/haf79/)
+
+-   Callaway, F.^1^, Hardy, M.^1^, & Griffiths, T. L. (in press). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. [pdf](https://psyarxiv.com/7ahdc)
 
 - Correa, C. G., Ho, M. K., Callaway, F., Daw, N. D., & Griffiths, T. L. (2023). Humans decompose tasks by trading off utility and computational cost. _PLOS Computational Biology_. [pdf](https://fredcallaway.com/pdfs/correa2023humans.pdf)
 
@@ -66,21 +69,25 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 
 ### Refereed conference papers
 
-- Kemtur, A., Jain, Y. R.,  Mehta, A.,  Callaway, F., Consul, S., Stojcheski, J., & Lieder, F. (2020) Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment.  In _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._ [pdf](https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf)
+- Cheyette, S. J., Callaway, F., Bramley, N. R., Nelson, J. D., & Tenenbaum, J. (2023). People seek easily interpretable information. In _Proceedings of the Annual Meeting of the Cognitive Science Society_. [pdf](https://escholarship.org/content/qt5sm2b484/qt5sm2b484.pdf)
 
-- Callaway, F.^1^, Hardy, M.^1^, & Griffiths, T. L. (2020). Optimal nudging. In _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._ [pdf](https://cognitivesciencesociety.org/cogsci20/papers/0555/0555.pdf)   [video](https://www.youtube.com/watch?v=jtskMUdaBh0)
+- Liquin, E. G., Callaway, F., & Lombrozo, T. (2021). Developmental Change in What Elicits Curiosity. In _Proceedings of the Annual Meeting of the Cognitive Science Society_. [pdf](https://escholarship.org/uc/item/43g7m167)
 
-- Liquin, E.G., Callaway, F. & Lombrozo, T. (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. In _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._ [pdf](https://cognition.princeton.edu/sites/default/files/cognition/files/liquincogsci2020.pdf)
+- Kemtur, A., Jain, Y. R.,  Mehta, A.,  Callaway, F., Consul, S., Stojcheski, J., & Lieder, F. (2020) Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment.  In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf)
 
-- Correa, C.G., Ho, M. K., Callaway, F., Griffiths, T. L. (2020). Resource-rational task decomposition to minimize planning costs. In _Proceedings of the 42nd Annual Conference of the Cognitive Science Society._ [pdf](https://arxiv.org/abs/2007.13862)
+- Callaway, F.^1^, Hardy, M.^1^, & Griffiths, T. L. (2020). Optimal nudging. In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://cognitivesciencesociety.org/cogsci20/papers/0555/0555.pdf)   [video](https://www.youtube.com/watch?v=jtskMUdaBh0)
 
-- Raj, Y.J., Callaway, F., & Lieder, F. Measuring how people learn how to plan. (2019) In _Proceedings of the 41st Annual Conference of the Cognitive Science Society._ [pdf](https://cogsci.mindmodeling.org/2019/papers/0344/0344.pdf)
+- Liquin, E.G., Callaway, F. & Lombrozo, T. (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://cognition.princeton.edu/sites/default/files/cognition/files/liquincogsci2020.pdf)
+
+- Correa, C.G., Ho, M. K., Callaway, F., Griffiths, T. L. (2020). Resource-rational task decomposition to minimize planning costs. In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://arxiv.org/abs/2007.13862)
+
+- Raj, Y.J., Callaway, F., & Lieder, F. Measuring how people learn how to plan. (2019) In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://cogsci.mindmodeling.org/2019/papers/0344/0344.pdf)
 
 - Callaway, F.^1^, Gul, S.^1^, Krueger, P. M., Griffiths, T. L., & Lieder, F.^1^ (2018). Learning to select computations. In _Uncertainty in Artificial Intelligence_. [pdf](https://arxiv.org/abs/1711.06892)
 
-- Callaway, F.^1^, Lieder, F.^1^, Das, P., Gul, S., Krueger, P. M., & Griffiths, T. L. (2018). A resource-rational analysis of human planning. In _Proceedings of the 40th Annual Conference of the Cognitive Science Society._ (selected for talk) [pdf](http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf)
+- Callaway, F.^1^, Lieder, F.^1^, Das, P., Gul, S., Krueger, P. M., & Griffiths, T. L. (2018). A resource-rational analysis of human planning. In _Proceedings of the Annual Conference of the Cognitive Science Society._ (selected for talk) [pdf](http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf)
 
-- Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [pdf](https://osf.io/wrqtp/)
+- Callaway, F., Hamrick, J. B., & Griffiths, T. L. (2017). Discovering simple heuristics from mental simulation. In _Proceedings of the Annual Conference of the Cognitive Science Society._ [pdf](https://osf.io/wrqtp/)
 
 ### Conference presentations
 
@@ -99,8 +106,6 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 - Gul, S., Krueger, P. M., Callaway, F., Griffiths, T. L., & Lieder, F. (2018). Discovering rational heuristics for risky choice. _The 14th biannual conference of the German society for cognitive science_.
 
 - Ho, M. K.^1^, Sanborn S.^1^, Callaway F.^1^, Bourgin, D., and Griffiths, T. L. (2018). Human priors in hierarchical program induction. _Cognitive Computational Neuroscience._ [pdf](https://ccneuro.org/2018/proceedings/1265.pdf)
-
-- Lieder, F.^1^, Krueger, P. M.^1^, Callaway, F.^1^, & Griffiths, T. L. (2017). A computerized training program for teaching people how to plan better. _Annual Meeting of the Society for Judgment and Decision-Making._ [pdf](https://osf.io/preprints/psyarxiv/uj8ys/)
 
 - Lieder^1^, F. Krueger^1^ P. M., Callaway^1^ F., & Griffiths T. L. (2017). A reward shaping method for promoting metacognitive learning. _The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making._ [pdf](https://osf.io/preprints/psyarxiv/qj346/)
 
@@ -134,6 +139,7 @@ Note: ^1^ denotes shared first authorship; ^2^ denotes shared senior authorship.
 
 ### Mentoring
 
+- 2023 Sarah Borges: Undergraduate research assistant.
 - 2020 Michael Li: Undergraduate thesis student. _Probing the adaptivity of the human kernel_.
 - 2018  Sophie Shang: Undergraduate thesis student. _Illusory correlation and biased memory_.
 
