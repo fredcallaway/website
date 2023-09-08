@@ -14,5 +14,4 @@ cv/*.fls
 cv/*.html
 cv/*.log
 cv/*.out
-cv/*.tex
 notebooks
