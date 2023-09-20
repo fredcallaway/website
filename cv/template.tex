@@ -85,14 +85,18 @@ $endif$
   \usepackage[unicode=true]{hyperref}
 \fi
 
+\usepackage{fontawesome}
+
+% \definecolor{linkcolor}{HTML}{49BB81}
+\definecolor{linkcolor}{HTML}{000000}
 
 \hypersetup{breaklinks=true,
             bookmarks=true,
-            pdfauthor={$author-meta$},
-            pdftitle={$title-meta$},
+            pdfauthor=Frederick Callaway,
+            pdftitle=Fred Callaway's CV,
             colorlinks=true,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+            urlcolor=linkcolor,
+            linkcolor=linkcolor,
             pdfborder={0 0 0}}
 $if(links-as-notes)$
 % Make links footnotes instead of hotlinks:
