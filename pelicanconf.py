@@ -45,7 +45,7 @@ LINKS = (
 
 SOCIAL = (
     ('github', 'https://github.com/fredcallaway'),
-    ('paper-plane', 'mailto:fredcallaway@princeton.edu'),
+    ('paper-plane', 'mailto:fredcallaway@gmail.com'),
 )
 
 
@@ -59,7 +59,7 @@ MENUITEMS = (('Archives', '/archives.html'),
 #    'slug': 'by-sa'
 #}
 
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2023
 
 DEFAULT_PAGINATION = 10
 STATUSCAKE = False
