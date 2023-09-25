@@ -132,7 +132,7 @@ _Asterisks indicate shared lead/senior authorship._
 ## Service
 
 ### Ad Hoc Reviewing
-In total, I have reviewed 11 journal submissions (not including resubmissions) and 20 conference and workshop submissions across the following venues:
+In total, I have reviewed 12 journal submissions (not including resubmissions) and 20 conference and workshop submissions across the following venues:
 
 - _Advances in Cognitive Psychology_
 - _Brain and Behavior_
@@ -144,8 +144,8 @@ In total, I have reviewed 11 journal submissions (not including resubmissions) a
 - _PLoS Computational Biology_
 - _Proceedings of the Annual Meeting of the Cognitive Science Society_
 - _Proceedings of the National Academy of Sciences_
+- _Scientific Reports_
 - _Workshop on Human and Machine Decisions @ NeurIPS_
-
 ### Mentoring
 
 - 2023 Sarah Borges: Undergraduate research assistant.
