@@ -41,7 +41,7 @@ _Asterisks indicate shared lead/senior authorship._
 
 ### Journal articles
 
-- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (in press). Optimal metacognitive control of memory recall. _Psychological Review_. \ \ [\faFilePdfO](https://psyarxiv.com/haf79/)
+- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (2023). Optimal metacognitive control of memory recall. _Psychological Review_. \ \ [\faFilePdfO](https://fredcallaway.com/pdfs/callaway2023metamemory.pdf)
 
 -   Callaway, F.,^&ast;^ Hardy, M.,^&ast;^ & Griffiths, T. L. (in press). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. \ \ [\faFilePdfO](https://psyarxiv.com/7ahdc)
 
