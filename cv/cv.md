@@ -31,15 +31,15 @@ Minors in computer science and cognitive science
 
 _Asterisks indicate shared lead/senior authorship._
 
-### In preperation
+### In preparation
 
 - Callaway, F.,^&ast;^ Karreskog, G.^&ast;^, Griffiths, T. L. Rational Heuristics for One-Shot Games. \ \ [\faFilePdfO](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
-
-- Krueger, P.M.,^&ast;^ Callaway, F.,^&ast;^ Gul, S., Lieder, F.,^&ast;^ & Griffiths, T.L.^&ast;^ (R&R at _Psychological Review_). Identifying Resource-Rational Heuristics for Risky Choice. \ \ [\faFilePdfO](https://psyarxiv.com/mg7dn)
 
 - Frömer, R., Callaway, F., Griffiths, T., & Shenhav, A. Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. \ \ [\faFilePdfO](https://psyarxiv.com/2sqyt)
 
 ### Journal articles
+
+- Krueger, P.M.,^&ast;^ Callaway, F.,^&ast;^ Gul, S., Lieder, F.,^&ast;^ & Griffiths, T.L.^&ast;^ (in press). Identifying Resource-Rational Heuristics for Risky Choice. _Psychological Review_. \ \ [\faFilePdfO](https://psyarxiv.com/mg7dn)
 
 - Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (2023). Optimal metacognitive control of memory recall. _Psychological Review_. \ \ [\faFilePdfO](https://fredcallaway.com/pdfs/callaway2023metamemory.pdf)
 

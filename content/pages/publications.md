@@ -7,19 +7,19 @@ title: Publications
 _Asterisks indicate shared lead/senior authorship._
 
 
-### In preperation
+### In preparation
 
 - Callaway, F.,<sup>&ast;</sup> Karreskog, G.<sup>&ast;</sup>, Griffiths, T. L. Rational Heuristics for One-Shot Games. [<span class="fa fa-file"></span>](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
-
-- Krueger, P.M.,<sup>&ast;</sup> Callaway, F.,<sup>&ast;</sup> Gul, S., Lieder, F.,<sup>&ast;</sup> & Griffiths, T.L.<sup>&ast;</sup> (R&R at _Psychological Review_). Identifying Resource-Rational Heuristics for Risky Choice. [<span class="fa fa-file"></span>](https://psyarxiv.com/mg7dn)
 
 - Frömer, R., Callaway, F., Griffiths, T., & Shenhav, A. Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. [<span class="fa fa-file"></span>](https://psyarxiv.com/2sqyt)
 
 ### Journal articles
 
-- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (in press). Optimal metacognitive control of memory recall. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/haf79/)
+- Krueger, P.M.,<sup>&ast;</sup> Callaway, F.,<sup>&ast;</sup> Gul, S., Lieder, F.,<sup>&ast;</sup> & Griffiths, T.L.<sup>&ast;</sup> (in press). Identifying Resource-Rational Heuristics for Risky Choice. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/mg7dn)
 
 -   Callaway, F.,<sup>&ast;</sup> Hardy, M.,<sup>&ast;</sup> & Griffiths, T. L. (in press). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/7ahdc)
+
+- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (2023). Optimal metacognitive control of memory recall. _Psychological Review_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2023metamemory.pdf)
 
 - Correa, C. G., Ho, M. K., Callaway, F., Daw, N. D., & Griffiths, T. L. (2023). Humans decompose tasks by trading off utility and computational cost. _PLOS Computational Biology_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/correa2023humans.pdf)
 

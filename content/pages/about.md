@@ -20,7 +20,7 @@ _Asterisks indicate shared lead/senior authorship._
 
 - Callaway, F., Rangel, A., & Griffiths, T. L. (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [<span class="fa fa-file"></span>](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
 
-- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (in press). Optimal metacognitive control of memory recall. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/haf79/)
+- Callaway, F., Griffiths, T. L., Norman, K. A., & Zhang Q. (2023). Optimal metacognitive control of memory recall. _Psychological Review_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2023metamemory.pdf)
 
 - Callaway, F.<sup>1</sup>, Hardy, M.<sup>1</sup>, & Griffiths, T. L. (in press). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/7ahdc)
 
