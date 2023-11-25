@@ -1,6 +1,11 @@
+#!/usr/bin/env python3
+
+import os
 import sys
 import yaml
 from toolz import groupby
+
+here = os.path.dirname(os.path.abspath(__file__))
 
 type_map = {
     "prep": "In preparation",
@@ -22,12 +27,11 @@ def format_pub(pub):
         txt += "[\\faFilePdfO]({link})".format_map(pub)
     return txt + '\n'
 
-with open("../pubs.yml", 'r') as f:
+with open(f"{here}/pubs.yml", 'r') as f:
     pubs = yaml.safe_load(f)
 grouped = groupby('type', pubs)
 
 for line in sys.stdin.readlines():
-
     if line == '<<PUBS>>\n':
         for typ, name in type_map.items():
             print("\n###", name, '\n')
