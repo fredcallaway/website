@@ -5,7 +5,7 @@
   venue: null
   link: https://gustavkarreskog.com/files/jmp_karreskog.pdf
   type: prep
-  citekey: null
+  citekey: callaway-heuristics
 
 - title: 'Considering what we know and what we don''t know: Expectations and confidence guide value integration in value-based decision-making'
   authors: R Frömer, F Callaway, T Griffiths, A Shenhav
@@ -13,7 +13,7 @@
   venue: null
   link: https://psyarxiv.com/2sqyt
   type: prep
-  citekey: null
+  citekey: fromer-considering
 
 - title: Optimal metacognitive control of memory recall
   authors: F Callaway, TL Griffiths, KA Norman
@@ -117,7 +117,7 @@
   authors: A Kemtur, YR Jain, A  Mehta, F  Callaway, S Consul, J Stojcheski, F Lieder
   year: 2020
   venue: CogSci
-  link: https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf
+  link: https://cognitivesciencesociety.org/cogsci20/papers/0572/0572.pdf
   type: proceedings
   citekey: kemtur2020leveraging
 
@@ -144,7 +144,7 @@
   venue: CogSci
   link: https://arxiv.org/abs/2007.13862
   type: proceedings
-  citekey: correa2020resource-rational
+  citekey: correa2020resource
 
 - title: Measuring how people learn how to plan
   authors: YJ Raj, F Callaway, FL Lieder
@@ -175,7 +175,7 @@
   authors: F Callaway, JB Hamrick, TL Griffiths
   year: 2017
   venue: CogSci
-  link: https://osf.io/wrqtp/
+  link: https://osf.io/wrqtp/download
   type: proceedings
   citekey: callaway2017discovering
 
@@ -227,7 +227,7 @@
   venue: RLDM
   link: https://www.researchgate.net/publication/331465629
   type: presentation
-  citekey: lieder2019a
+  citekey: lieder2019cognitive
 
 - title: Compositional subgoal representations for planning and problem-solving
   authors: CallawayF Correa C., M Ho, TL Griffiths
