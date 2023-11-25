@@ -1,0 +1,285 @@
+
+- title: Rational Heuristics for One-Shot Games
+  authors: F Callaway*, G Karreskog*, TL Griffiths
+  year: in prep
+  venue: null
+  link: https://gustavkarreskog.com/files/jmp_karreskog.pdf
+  type: prep
+  citekey: null
+
+- title: 'Considering what we know and what we don''t know: Expectations and confidence guide value integration in value-based decision-making'
+  authors: R Frömer, F Callaway, T Griffiths, A Shenhav
+  year: in prep
+  venue: null
+  link: https://psyarxiv.com/2sqyt
+  type: prep
+  citekey: null
+
+- title: Optimal metacognitive control of memory recall
+  authors: F Callaway, TL Griffiths, KA Norman
+  year: 2023
+  venue: Psychological Review
+  link: https://fredcallaway.com/pdfs/callaway2023metamemory.pdf
+  type: journal
+  citekey: callaway2023metamemory
+
+- title: Identifying resource-rational heuristics for risky choice
+  authors: PM Krueger*, F Callaway*, S Gul, F Lieder*, TL Griffiths*
+  year: in press
+  venue: Psychological Review
+  link: https://psyarxiv.com/mg7dn
+  type: journal
+  citekey: krueger2023identifying
+
+- title: 'Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures'
+  authors: F Callaway*, M Hardy*, TL Griffiths
+  year: 2023
+  venue: Psychological Review
+  link: https://psyarxiv.com/7ahdc
+  type: journal
+  citekey: callaway2023nudging
+
+- title: Humans decompose tasks by trading off utility and computational cost
+  authors: CG Correa, MK Ho, F Callaway, ND Daw, TL Griffiths
+  year: 2023
+  venue: PLOS Computational Biology
+  link: https://fredcallaway.com/pdfs/correa2023humans.pdf
+  type: journal
+  citekey: correa2023humans
+
+- title: Learning to learn functions
+  authors: MY Li, F Callaway, WD Thompson, RP Adams, TL Griffiths
+  year: 2023
+  venue: Cognitive Science
+  link: https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13262
+  type: journal
+  citekey: li2023learning
+
+- title: Leveraging artificial intelligence to  improve people's planning strategies
+  authors: F Callaway, YR Jain, B van Opheusden, P Das, G Iwama, S Gul, PM Krueger, F Becker, TL Griffiths*, F Lieder*
+  year: 2022
+  venue: Proceedings of the National Academy of Sciences
+  link: https://cocosci.princeton.edu/papers/callawayleveraging.pdf
+  type: journal
+  citekey: callaway2022leveraging
+
+- title: Rational use of cognitive resources in human planning
+  authors: F Callaway, B van Opheusden, S Gul, Krueger Das P., LiederF P. M.*, TL Griffiths*
+  year: 2022
+  venue: Nature Human Behavior
+  link: https://cocosci.princeton.edu/papers/callawayrationaluse.pdf
+  type: journal
+  citekey: callaway2022rational
+
+- title: A computational process-tracing method for measuring people's planning strategies and how they change over time
+  authors: YR Jain, F Callaway, TL Griffiths, P Dayan, PM Krueger, F Lieder
+  year: 2022
+  venue: Behavioral Research Methods
+  link: https://is.mpg.de/uploads_file/attachment/attachment/675/Revised_Manuscript.pdf
+  type: journal
+  citekey: jain2022computational
+
+- title: Fixation patterns in simple choice reflect optimal information sampling
+  authors: F Callaway, A Rangel, TL Griffiths
+  year: 2021
+  venue: PLoS Computational Biology
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863
+  type: journal
+  citekey: callaway2021fixation
+
+- title: 'Doing more with less: meta-reasoning and meta-learning in humans and machines'
+  authors: TL Griffiths, F Callaway, MB Chang, E Grant, PM Krueger, F Lieder
+  year: 2019
+  venue: Current Opinion in Behavioral Sciences
+  link: http://cocosci.princeton.edu/papers/doing-more-with-less.pdf
+  type: journal
+  citekey: griffiths2019doing
+
+- title: People seek easily interpretable information
+  authors: SJ Cheyette, F Callaway, NR Bramley, JD Nelson, J Tenenbaum
+  year: 2023
+  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  link: https://escholarship.org/content/qt5sm2b484/qt5sm2b484.pdf
+  type: proceedings
+  citekey: cheyette2023people
+  note: selected for talk
+
+- title: Developmental change in what elicits curiosity
+  authors: EG Liquin, F Callaway, T Lombrozo
+  year: 2021
+  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  link: https://escholarship.org/uc/item/43g7m167
+  type: proceedings
+  citekey: liquin2021developmental
+  note: selected for talk
+
+- title: Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment
+  authors: A Kemtur, YR Jain, A  Mehta, F  Callaway, S Consul, J Stojcheski, F Lieder
+  year: 2020
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf
+  type: proceedings
+  citekey: kemtur2020leveraging
+
+- title: Optimal nudging
+  authors: F Callaway*, M Hardy*, TL Griffiths
+  year: 2020
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://cognitivesciencesociety.org/cogsci20/papers/0555/0555.pdf
+  type: proceedings
+  citekey: callaway2020optimal
+
+- title: 'Quantifying curiosity: A formal approach to dissociating causes of curiosity'
+  authors: EG Liquin, F Callaway, T Lombrozo
+  year: 2020
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://cognition.princeton.edu/sites/default/files/cognition/files/liquincogsci2020.pdf
+  type: proceedings
+  citekey: liquin2020quantifying
+  note: selected for a talk
+
+- title: Resource-rational task decomposition to minimize planning costs
+  authors: CG Correa, MK Ho, F Callaway, TL Griffiths
+  year: 2020
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://arxiv.org/abs/2007.13862
+  type: proceedings
+  citekey: correa2020resource-rational
+
+- title: Measuring how people learn how to plan
+  authors: YJ Raj, F Callaway, FL Lieder
+  year: 2019
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://cogsci.mindmodeling.org/2019/papers/0344/0344.pdf
+  type: proceedings
+  citekey: raj2019measuring
+
+- title: Learning to select computations
+  authors: F Callaway*, S Gul*, PM Krueger, TL Griffiths, F Lieder*
+  year: 2018
+  venue: Uncertainty in Artificial Intelligence
+  link: https://arxiv.org/abs/1711.06892
+  type: proceedings
+  citekey: callaway2018learning
+
+- title: A resource-rational analysis of human planning
+  authors: F Callaway*, F Lieder*, P Das, S Gul, PM Krueger, TL Griffiths
+  year: 2018
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf
+  type: proceedings
+  citekey: callaway2018resource
+  note: selected for talk
+
+- title: Discovering simple heuristics from mental simulation
+  authors: F Callaway, JB Hamrick, TL Griffiths
+  year: 2017
+  venue: Proceedings of the Annual Conference of the Cognitive Science Society.
+  link: https://osf.io/wrqtp/
+  type: proceedings
+  citekey: callaway2017discovering
+
+- title: Inverting cognitive models with machine learning to infer preferences from fixations
+  authors: F Callaway, E Russek, TL Griffiths
+  year: 2023
+  venue: Gaze Meets ML workshop @ NeurIPS
+  link: null
+  type: presentation
+  citekey: russek2023inverting
+
+- title: A rational model of perceived control, negative thinking, and avoidance Computational Psychiatry Conference
+  authors: F Callaway, F Cushman
+  year: 2023
+  venue: null
+  link: https://fredcallaway.com/pdfs/callaway-cpconf-2023.pdf
+  type: presentation
+  citekey: null
+
+- title: From heuristic to optimal models in naturalistic visual search Bridging AI and Cognitive Science workshop @ ICLR (selected for a talk)
+  authors: A Radulescu*, Callaway Van Opheusden S.*, Griffiths F., Hillis T. L.
+  year: 2020
+  venue: null
+  link: https://baicsworkshop.github.io/pdf/BAICS_33.pdf
+  type: presentation
+  citekey: radulescu2020from
+
+- title: Generalization in planning by metalearning to metareason Generalization in planning workshop @ AAAI
+  authors: FvanOpheusden Callaway, Grant B., Griffiths E.
+  year: 2020
+  venue: '19'
+  link: https://fredcallaway.com/pdfs/AAAI_19_Planning_workshop.pdf
+  type: presentation
+  citekey: callaway2020generalization
+  note: selected for talk
+
+- title: Attention in value-based choice as optimal sequential sampling
+  authors: F Callaway, TL Griffiths
+  year: 2019
+  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: https://psyarxiv.com/57v6k
+  type: presentation
+  citekey: callaway2019attention
+
+- title: A cognitive tutor for helping people overcome present bias
+  authors: F Lieder*, F Callaway*, YR Jain, PM Krueger, P Das, S Gul, TL Griffiths
+  year: 2019
+  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: https://www.researchgate.net/publication/331465629
+  type: presentation
+  citekey: lieder2019a
+
+- title: Compositional subgoal representations for planning and problem-solving
+  authors: CallawayF Correa C., M Ho, TL Griffiths
+  year: 2019
+  venue: Annual Conference of the Cognitive Science Society
+  link: http://cocosci.princeton.edu/falk/KogWis_Discovering_Heuristics.pdf
+  type: presentation
+  citekey: correa2019compositional
+
+- title: Remediating cognitive decline with cognitive tutors
+  authors: P Das, F Callaway, TL Griffiths, F Lieder
+  year: 2019
+  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: ''
+  type: presentation
+  citekey: das2019remediating
+
+- title: Discovering rational heuristics for risky choice
+  authors: S Gul, PM Krueger, F Callaway, TL Griffiths, F Lieder
+  year: 2018
+  venue: The 14th biannual conference of the German society for cognitive science
+  link: ''
+  type: presentation
+  citekey: gul2018discovering
+
+- title: Human priors in hierarchical program induction
+  authors: MK Ho*, CallawayF Sanborn S.*, D Bourgin, TL and Griffiths
+  year: 2018
+  venue: Cognitive Computational Neuroscience.
+  link: https://ccneuro.org/2018/proceedings/1265.pdf
+  type: presentation
+  citekey: ho2018human
+
+- title: A reward shaping method for promoting metacognitive learning
+  authors: F Lieder*, CallawayF Krueger P. M.*
+  year: 2017
+  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: https://osf.io/preprints/psyarxiv/qj346/
+  type: presentation
+  citekey: lieder2017reward
+
+- title: 'Mouselab-MDP: A new paradigm for tracing how people plan'
+  authors: F Callaway*, F Lieder*, PM Krueger*, TL Griffiths
+  year: 2017
+  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: https://osf.io/7wcya
+  type: presentation
+  citekey: callaway2017mouselab
+
+- title: Helping people choose subgoals with sparse pseudo rewards
+  authors: F Callaway, F Lieder, TL Griffiths
+  year: 2017
+  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making.
+  link: https://osf.io/8rz37
+  type: presentation
+  citekey: callaway2017helping
