@@ -98,7 +98,7 @@
 - title: People seek easily interpretable information
   authors: SJ Cheyette, F Callaway, NR Bramley, JD Nelson, J Tenenbaum
   year: 2023
-  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  venue: CogSci
   link: https://escholarship.org/content/qt5sm2b484/qt5sm2b484.pdf
   type: proceedings
   citekey: cheyette2023people
@@ -107,7 +107,7 @@
 - title: Developmental change in what elicits curiosity
   authors: EG Liquin, F Callaway, T Lombrozo
   year: 2021
-  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  venue: CogSci
   link: https://escholarship.org/uc/item/43g7m167
   type: proceedings
   citekey: liquin2021developmental
@@ -116,7 +116,7 @@
 - title: Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment
   authors: A Kemtur, YR Jain, A  Mehta, F  Callaway, S Consul, J Stojcheski, F Lieder
   year: 2020
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf
   type: proceedings
   citekey: kemtur2020leveraging
@@ -124,7 +124,7 @@
 - title: Optimal nudging
   authors: F Callaway*, M Hardy*, TL Griffiths
   year: 2020
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://cognitivesciencesociety.org/cogsci20/papers/0555/0555.pdf
   type: proceedings
   citekey: callaway2020optimal
@@ -132,7 +132,7 @@
 - title: 'Quantifying curiosity: A formal approach to dissociating causes of curiosity'
   authors: EG Liquin, F Callaway, T Lombrozo
   year: 2020
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://cognition.princeton.edu/sites/default/files/cognition/files/liquincogsci2020.pdf
   type: proceedings
   citekey: liquin2020quantifying
@@ -141,7 +141,7 @@
 - title: Resource-rational task decomposition to minimize planning costs
   authors: CG Correa, MK Ho, F Callaway, TL Griffiths
   year: 2020
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://arxiv.org/abs/2007.13862
   type: proceedings
   citekey: correa2020resource-rational
@@ -149,7 +149,7 @@
 - title: Measuring how people learn how to plan
   authors: YJ Raj, F Callaway, FL Lieder
   year: 2019
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://cogsci.mindmodeling.org/2019/papers/0344/0344.pdf
   type: proceedings
   citekey: raj2019measuring
@@ -165,7 +165,7 @@
 - title: A resource-rational analysis of human planning
   authors: F Callaway*, F Lieder*, P Das, S Gul, PM Krueger, TL Griffiths
   year: 2018
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf
   type: proceedings
   citekey: callaway2018resource
@@ -174,7 +174,7 @@
 - title: Discovering simple heuristics from mental simulation
   authors: F Callaway, JB Hamrick, TL Griffiths
   year: 2017
-  venue: Proceedings of the Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: https://osf.io/wrqtp/
   type: proceedings
   citekey: callaway2017discovering
@@ -216,7 +216,7 @@
 - title: Attention in value-based choice as optimal sequential sampling
   authors: F Callaway, TL Griffiths
   year: 2019
-  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: https://psyarxiv.com/57v6k
   type: presentation
   citekey: callaway2019attention
@@ -224,7 +224,7 @@
 - title: A cognitive tutor for helping people overcome present bias
   authors: F Lieder*, F Callaway*, YR Jain, PM Krueger, P Das, S Gul, TL Griffiths
   year: 2019
-  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: https://www.researchgate.net/publication/331465629
   type: presentation
   citekey: lieder2019a
@@ -232,7 +232,7 @@
 - title: Compositional subgoal representations for planning and problem-solving
   authors: CallawayF Correa C., M Ho, TL Griffiths
   year: 2019
-  venue: Annual Conference of the Cognitive Science Society
+  venue: CogSci
   link: http://cocosci.princeton.edu/falk/KogWis_Discovering_Heuristics.pdf
   type: presentation
   citekey: correa2019compositional
@@ -240,7 +240,7 @@
 - title: Remediating cognitive decline with cognitive tutors
   authors: P Das, F Callaway, TL Griffiths, F Lieder
   year: 2019
-  venue: The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: ''
   type: presentation
   citekey: das2019remediating
@@ -248,7 +248,7 @@
 - title: Discovering rational heuristics for risky choice
   authors: S Gul, PM Krueger, F Callaway, TL Griffiths, F Lieder
   year: 2018
-  venue: The 14th biannual conference of the German society for cognitive science
+  venue: KogWis
   link: ''
   type: presentation
   citekey: gul2018discovering
@@ -256,7 +256,7 @@
 - title: Human priors in hierarchical program induction
   authors: MK Ho*, S Sanborn*, F Callaway*, D Bourgin, TL Griffiths
   year: 2018
-  venue: Cognitive Computational Neuroscience
+  venue: CCN
   link: https://ccneuro.org/2018/proceedings/1265.pdf
   type: presentation
   citekey: ho2018human
@@ -264,7 +264,7 @@
 - title: A reward shaping method for promoting metacognitive learning
   authors: F Lieder*, PM Krueger*, F Callaway*, TL Griffiths
   year: 2017
-  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: https://osf.io/preprints/psyarxiv/qj346/
   type: presentation
   citekey: lieder2017reward
@@ -272,7 +272,7 @@
 - title: 'Mouselab-MDP: A new paradigm for tracing how people plan'
   authors: F Callaway*, F Lieder*, PM Krueger*, TL Griffiths
   year: 2017
-  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: https://osf.io/7wcya
   type: presentation
   citekey: callaway2017mouselab
@@ -280,7 +280,7 @@
 - title: Helping people choose subgoals with sparse pseudo rewards
   authors: F Callaway, F Lieder, TL Griffiths
   year: 2017
-  venue: The 3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making
+  venue: RLDM
   link: https://osf.io/8rz37
   type: presentation
   citekey: callaway2017helping
