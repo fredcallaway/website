@@ -55,7 +55,7 @@
   type: journal
   citekey: li2023learning
 
-- title: Leveraging artificial intelligence to  improve people's planning strategies
+- title: Leveraging artificial intelligence to improve people's planning strategies
   authors: F Callaway, YR Jain, B van Opheusden, P Das, G Iwama, S Gul, PM Krueger, F Becker, TL Griffiths*, F Lieder*
   year: 2022
   venue: Proceedings of the National Academy of Sciences
@@ -69,7 +69,7 @@
   venue: Nature Human Behavior
   link: https://cocosci.princeton.edu/papers/callawayrationaluse.pdf
   type: journal
-  citekey: callaway2022rational
+  citekey: callaway2022planning
 
 - title: A computational process-tracing method for measuring people's planning strategies and how they change over time
   authors: YR Jain, F Callaway, TL Griffiths, P Dayan, PM Krueger, F Lieder
