@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Fred Callaway'
-SITEURL = 'https://localhost:8000'
+SITEURL = 'http://localhost:8000'
 SITENAME = AUTHOR
 SITETITLE = AUTHOR
 SITESUBTITLE = ''
@@ -45,6 +45,7 @@ LINKS = (
 
 SOCIAL = (
     ('github', 'https://github.com/fredcallaway'),
+    ('square', 'https://bsky.app/profile/fredcallaway.bsky.social'),
     ('paper-plane', 'mailto:fredcallaway@gmail.com'),
 )
 
