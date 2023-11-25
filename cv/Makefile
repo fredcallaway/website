@@ -15,10 +15,10 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -f markdown+superscript -t html -c resume.css -o $@
+	cat $< | python resume.py html $(GRAVATAR_OPTION) | pandoc -f markdown+superscript -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< | pandoc -f markdown+superscript --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	cat $< | python format_pubs.py | python resume.py tex | pandoc -f markdown+superscript --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 # 	open $@
 
 clean:
