@@ -35,18 +35,19 @@ _Asterisks indicate shared lead/senior authorship._
 
 ## Invited talks
 
+- 2023 Brown University, Shenhav Lab
 - 2023  Harvard University, Cognition, Brain, and Behavior seminar
 - 2022  UC San Diego, Mattar Lab
 - 2022  Sloan-NOMIS Summer school on the Cognitive Foundations of Economic Behavior
 - 2022  Yale University, Computational Social Cognition Lab
-- 2022  Irvine University, Computational Cognitive Neuroscience Lab
+- 2022  UC Irvine, Computational Cognitive Neuroscience Lab
 - 2021  Brown University, Shenhav Lab
 - 2020  Harvard University, Moral Psychology Research Lab
 - 2020  Pompeu Fabra University, Theoretical and Cognitive Neuroscience lab meeting
 - 2020  University of Minnesota, Hayden Lab
 - 2020  UC Berkeley, Computation and Language Lab
 - 2020  New York University, ConCats (Concepts and Categories) Seminar
-- 2019  Sloan-Nomis Workshop on the Cognitive Foundations of Economic Behavior
+- 2019  Sloan-NOMIS Workshop on the Cognitive Foundations of Economic Behavior
 - 2018  Columbia University, Cognition and Decision Lab
 
 ## Grants and Fellowships
