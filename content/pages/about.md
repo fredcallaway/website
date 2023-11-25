@@ -4,7 +4,7 @@ save_as: index.html
 
 # Hello!
 
-I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://mattarlab.ucsd.edu/)) and Harvard (with [Fiery Cushman](https://cushmanlab.fas.harvard.edu/)). I did my PhD with [Tom Griffiths](http://cocosci.princeton.edu) at Princeton. I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/).
+I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://mattarlab.ucsd.edu/)) and Harvard (with [Fiery Cushman](https://cushmanlab.fas.harvard.edu/)). I did my PhD with [Tom Griffiths](http://cocosci.princeton.edu) at Princeton and I received my B.A. in Psychology and Linguistics from Cornell University under the advising of [Shimon Edelman](http://kybele.psych.cornell.edu/~edelman/).
 
 My research focuses on how human cognition is jointly shaped by the structure of the external world and our internal cognitive capacities. I develop computational models that make detailed predictions about the mental strategies people use across several domains, and test these models using fine-grained process data. My long-term goals are to (1) develop a domain-general computational and empirical framework for understanding the adaptive, algorithmic structure of cognition, (2) apply this framework to develop precise models of the internal and external factors that shape human cognitive processes, and (3) use those models to design interventions that improve people's lives.
 
