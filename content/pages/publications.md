@@ -11,53 +11,53 @@ _Asterisks indicate shared lead/senior authorship._
 
 ### In preparation 
 
-F Callaway<sup>&ast;</sup>, G Karreskog<sup>&ast;</sup>, TL Griffiths (in prep). Rational Heuristics for One-Shot Games. [<span class="fa fa-file"></span>](https://gustavkarreskog.com/files/jmp_karreskog.pdf)
+F Callaway<sup>&ast;</sup>, G Karreskog<sup>&ast;</sup>, TL Griffiths (in prep). Rational Heuristics for One-Shot Games. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway-heuristics.pdf)
 
-R Frömer, F Callaway, T Griffiths, A Shenhav (in prep). Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. [<span class="fa fa-file"></span>](https://psyarxiv.com/2sqyt)
+R Frömer, F Callaway, T Griffiths, A Shenhav (in prep). Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/fromer-considering.pdf)
 
 
 ### Journal articles 
 
 F Callaway, TL Griffiths, KA Norman (2023). Optimal metacognitive control of memory recall. _Psychological Review_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2023metamemory.pdf)
 
-PM Krueger<sup>&ast;</sup>, F Callaway<sup>&ast;</sup>, S Gul, F Lieder<sup>&ast;</sup>, TL Griffiths<sup>&ast;</sup> (in press). Identifying resource-rational heuristics for risky choice. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/mg7dn)
+PM Krueger<sup>&ast;</sup>, F Callaway<sup>&ast;</sup>, S Gul, F Lieder<sup>&ast;</sup>, TL Griffiths<sup>&ast;</sup> (in press). Identifying resource-rational heuristics for risky choice. _Psychological Review_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/krueger2023identifying.pdf)
 
-F Callaway<sup>&ast;</sup>, M Hardy<sup>&ast;</sup>, TL Griffiths (2023). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. [<span class="fa fa-file"></span>](https://psyarxiv.com/7ahdc)
+F Callaway<sup>&ast;</sup>, M Hardy<sup>&ast;</sup>, TL Griffiths (2023). Optimal nudging for cognitively bounded agents: A framework for modeling, predicting, and controlling the effects of choice architectures. _Psychological Review_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2023nudging.pdf)
 
 CG Correa, MK Ho, F Callaway, ND Daw, TL Griffiths (2023). Humans decompose tasks by trading off utility and computational cost. _PLOS Computational Biology_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/correa2023humans.pdf)
 
-MY Li, F Callaway, WD Thompson, RP Adams, TL Griffiths (2023). Learning to learn functions. _Cognitive Science_. [<span class="fa fa-file"></span>](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13262)
+MY Li, F Callaway, WD Thompson, RP Adams, TL Griffiths (2023). Learning to learn functions. _Cognitive Science_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/li2023learning.pdf)
 
-F Callaway, YR Jain, B van Opheusden, P Das, G Iwama, S Gul, PM Krueger, F Becker, TL Griffiths<sup>&ast;</sup>, F Lieder<sup>&ast;</sup> (2022). Leveraging artificial intelligence to improve people's planning strategies. _Proceedings of the National Academy of Sciences_. [<span class="fa fa-file"></span>](https://cocosci.princeton.edu/papers/callawayleveraging.pdf)
+F Callaway, YR Jain, B van Opheusden, P Das, G Iwama, S Gul, PM Krueger, F Becker, TL Griffiths<sup>&ast;</sup>, F Lieder<sup>&ast;</sup> (2022). Leveraging artificial intelligence to improve people's planning strategies. _Proceedings of the National Academy of Sciences_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2022leveraging.pdf)
 
-F Callaway, B van Opheusden, S Gul, PK Krueger, P Das, F Lieder<sup>&ast;</sup>, TL Griffiths<sup>&ast;</sup> (2022). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [<span class="fa fa-file"></span>](https://cocosci.princeton.edu/papers/callawayrationaluse.pdf)
+F Callaway, B van Opheusden, S Gul, PK Krueger, P Das, F Lieder<sup>&ast;</sup>, TL Griffiths<sup>&ast;</sup> (2022). Rational use of cognitive resources in human planning. _Nature Human Behavior_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2022planning.pdf)
 
-YR Jain, F Callaway, TL Griffiths, P Dayan, PM Krueger, F Lieder (2022). A computational process-tracing method for measuring people's planning strategies and how they change over time. _Behavioral Research Methods_. [<span class="fa fa-file"></span>](https://is.mpg.de/uploads_file/attachment/attachment/675/Revised_Manuscript.pdf)
+YR Jain, F Callaway, TL Griffiths, P Dayan, PM Krueger, F Lieder (2022). A computational process-tracing method for measuring people's planning strategies and how they change over time. _Behavioral Research Methods_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/jain2022computational.pdf)
 
-F Callaway, A Rangel, TL Griffiths (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [<span class="fa fa-file"></span>](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008863)
+F Callaway, A Rangel, TL Griffiths (2021). Fixation patterns in simple choice reflect optimal information sampling. _PLoS Computational Biology_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2021fixation.pdf)
 
-TL Griffiths, F Callaway, MB Chang, E Grant, PM Krueger, F Lieder (2019). Doing more with less: meta-reasoning and meta-learning in humans and machines. _Current Opinion in Behavioral Sciences_. [<span class="fa fa-file"></span>](http://cocosci.princeton.edu/papers/doing-more-with-less.pdf)
+TL Griffiths, F Callaway, MB Chang, E Grant, PM Krueger, F Lieder (2019). Doing more with less: meta-reasoning and meta-learning in humans and machines. _Current Opinion in Behavioral Sciences_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/griffiths2019doing.pdf)
 
 
 ### Refereed conference papers 
 
-SJ Cheyette, F Callaway, NR Bramley, JD Nelson, J Tenenbaum (2023). People seek easily interpretable information. _CogSci_. [<span class="fa fa-file"></span>](https://escholarship.org/content/qt5sm2b484/qt5sm2b484.pdf)
+SJ Cheyette, F Callaway, NR Bramley, JD Nelson, J Tenenbaum (2023). People seek easily interpretable information. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/cheyette2023people.pdf)
 
-EG Liquin, F Callaway, T Lombrozo (2021). Developmental change in what elicits curiosity. _CogSci_. [<span class="fa fa-file"></span>](https://escholarship.org/uc/item/43g7m167)
+EG Liquin, F Callaway, T Lombrozo (2021). Developmental change in what elicits curiosity. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/liquin2021developmental.pdf)
 
-A Kemtur, YR Jain, A  Mehta, F  Callaway, S Consul, J Stojcheski, F Lieder (2020). Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment. _CogSci_. [<span class="fa fa-file"></span>](https://cogsci.mindmodeling.org/2020/papers/0572/0572.pdf)
+A Kemtur, YR Jain, A  Mehta, F  Callaway, S Consul, J Stojcheski, F Lieder (2020). Leveraging machine learning to automatically derive robust planning strategies from biased models of the environment. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/kemtur2020leveraging.pdf)
 
-F Callaway<sup>&ast;</sup>, M Hardy<sup>&ast;</sup>, TL Griffiths (2020). Optimal nudging. _CogSci_. [<span class="fa fa-file"></span>](https://cognitivesciencesociety.org/cogsci20/papers/0555/0555.pdf)
+F Callaway<sup>&ast;</sup>, M Hardy<sup>&ast;</sup>, TL Griffiths (2020). Optimal nudging. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2020optimal.pdf)
 
-EG Liquin, F Callaway, T Lombrozo (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. _CogSci_. [<span class="fa fa-file"></span>](https://cognition.princeton.edu/sites/default/files/cognition/files/liquincogsci2020.pdf)
+EG Liquin, F Callaway, T Lombrozo (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/liquin2020quantifying.pdf)
 
-CG Correa, MK Ho, F Callaway, TL Griffiths (2020). Resource-rational task decomposition to minimize planning costs. _CogSci_. [<span class="fa fa-file"></span>](https://arxiv.org/abs/2007.13862)
+CG Correa, MK Ho, F Callaway, TL Griffiths (2020). Resource-rational task decomposition to minimize planning costs. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/correa2020resource.pdf)
 
-YJ Raj, F Callaway, FL Lieder (2019). Measuring how people learn how to plan. _CogSci_. [<span class="fa fa-file"></span>](https://cogsci.mindmodeling.org/2019/papers/0344/0344.pdf)
+YJ Raj, F Callaway, FL Lieder (2019). Measuring how people learn how to plan. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/raj2019measuring.pdf)
 
-F Callaway<sup>&ast;</sup>, S Gul<sup>&ast;</sup>, PM Krueger, TL Griffiths, F Lieder<sup>&ast;</sup> (2018). Learning to select computations. _Uncertainty in Artificial Intelligence_. [<span class="fa fa-file"></span>](https://arxiv.org/abs/1711.06892)
+F Callaway<sup>&ast;</sup>, S Gul<sup>&ast;</sup>, PM Krueger, TL Griffiths, F Lieder<sup>&ast;</sup> (2018). Learning to select computations. _Uncertainty in Artificial Intelligence_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2018learning.pdf)
 
-F Callaway<sup>&ast;</sup>, F Lieder<sup>&ast;</sup>, P Das, S Gul, PM Krueger, TL Griffiths (2018). A resource-rational analysis of human planning. _CogSci_. [<span class="fa fa-file"></span>](http://cocosci.princeton.edu/papers/Callaway_CogSci_2018.pdf)
+F Callaway<sup>&ast;</sup>, F Lieder<sup>&ast;</sup>, P Das, S Gul, PM Krueger, TL Griffiths (2018). A resource-rational analysis of human planning. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2018resource.pdf)
 
-F Callaway, JB Hamrick, TL Griffiths (2017). Discovering simple heuristics from mental simulation. _CogSci_. [<span class="fa fa-file"></span>](https://osf.io/wrqtp/)
+F Callaway, JB Hamrick, TL Griffiths (2017). Discovering simple heuristics from mental simulation. _CogSci_. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway2017discovering.pdf)
 
