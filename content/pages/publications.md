@@ -11,6 +11,8 @@ _Asterisks indicate shared lead/senior authorship._
 
 ### In preparation 
 
+CG Correa, S Sanborn, MK Ho, F Callaway, ND Daw, TL Griffiths (in prep). Exploring the hierarchical structure of human plans via program generation. [<span class="fa fa-file"></span>](https://arxiv.org/pdf/2311.18644.pdf)
+
 F Callaway<sup>&ast;</sup>, G Karreskog<sup>&ast;</sup>, TL Griffiths (in prep). Rational Heuristics for One-Shot Games. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/callaway-heuristics.pdf)
 
 R Frömer, F Callaway, T Griffiths, A Shenhav (in prep). Considering what we know and what we don't know: Expectations and confidence guide value integration in value-based decision-making. [<span class="fa fa-file"></span>](https://fredcallaway.com/pdfs/fromer-considering.pdf)
