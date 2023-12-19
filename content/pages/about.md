@@ -8,7 +8,7 @@ I'm a postdoc affiliated with NYU (with [Marcelo Mattar](https://www.mattarlab.c
 
 My research focuses on how human cognition is jointly shaped by the structure of the external world and our internal cognitive capacities. I develop computational models that make detailed predictions about the mental strategies people use across several domains, and test these models using fine-grained process data. My long-term goals are to (1) develop a domain-general computational and empirical framework for understanding the adaptive, algorithmic structure of cognition, (2) apply this framework to develop precise models of the internal and external factors that shape human cognitive processes, and (3) use those models to design interventions that improve people's lives.
 
-My [dissertation](pdfs/callaway-dissertation.pdf), _Cognition as a sequential decision problem_, applied metalevel Markov decision processes to develop optimal algorithmic models of attention, memory, and planning.
+My [dissertation](pdfs/callaway-dissertation-precis.pdf), _Cognition as a sequential decision problem_, applied metalevel Markov decision processes to develop optimal algorithmic models of attention, memory, and planning.
 
 Here is a reasonably up-to-date [CV](callaway-cv.pdf).
 
